@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "spatialaudio",
+  "repo": "audiometer",
+  "versions": [
+    {
+      "commit": "e631daefa2597f75ceec514a14d4974dee123265",
+      "parsed_at": "2026-10-28T17:10:54.720000+00:00",
+      "filetree": "filetree/e631daefa2597f75ceec514a14d4974dee123265.nq.gz",
+      "blobs": [
+        "blob/b30716c9d96e5ad90325478453227d1bf49c1a1c.nq.gz",
+        "blob/f88567e9e2ac2c851480a00026e559bb6905213a.nq.gz",
+        "blob/3567671e498585a2e46a11e803490884c788df7d.nq.gz",
+        "blob/70043b55dcab0931de3881072e9604797f1a521e.nq.gz",
+        "blob/2298424f6c39d757cc229e4f57a0387390955669.nq.gz",
+        "blob/b895aff3201337114659cfab0c509f9b59a7b4ac.nq.gz",
+        "blob/dfb0449a107c1a3f4ceef9822f920d4be16dfa73.nq.gz",
+        "blob/16df624944f2688a55ae06ef9da3aefcb78c5552.nq.gz",
+        "blob/2eb8148b3e95bf14791d94777ae04822c71b96fc.nq.gz",
+        "blob/9783fb34e006f2d639563ad8f2f22b336d251b3d.nq.gz",
+        "blob/ac8cef33c4f9330e7570e9be85f81aba5581dc50.nq.gz",
+        "blob/b3c068dd25ee1ec1de1c251dbdb35b2b61814012.nq.gz",
+        "blob/7c838f7e17f77607f581c65e52b68e5b6a64a8bf.nq.gz",
+        "blob/ba34d3a4dc3fc80d14ce911ef1e1b6b16b9e1d13.nq.gz",
+        "blob/57b2840b4ceb4535c470972d11a9d33e5a69da66.nq.gz",
+        "blob/e32b26da9855f23832632e0325f6f15512019816.nq.gz",
+        "blob/d2349a882d109d87bf99fddccf0249ed43463722.nq.gz",
+        "blob/f776d89299357a11f2fb333ec75727b8a53af8ce.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
