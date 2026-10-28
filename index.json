@@ -1,0 +1,11 @@
+{
+  "org": "spatialaudio",
+  "repo": "audiometer",
+  "versions": [
+    {
+      "commit": "e631daefa2597f75ceec514a14d4974dee123265",
+      "tag": "",
+      "parsed_at": "2026-10-28T17:13:26.282401+00:00"
+    }
+  ]
+}
